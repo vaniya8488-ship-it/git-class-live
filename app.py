@@ -4,7 +4,7 @@ def greet(name):
     return f"Hii {name}!"
 
 def good_bye(name):
-    return f"See you soon {name}!"
+    return f"by {name}!"
 
 print(DEMO_TITLE)
 print(greet("Team"))
